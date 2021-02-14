@@ -1,0 +1,26 @@
+img {
+    width:300px;
+    height: 300px;
+    padding: 5px;
+}
+#welcome {
+    width :700px;
+}
+body {
+    text-align: center;
+}
+container
+{
+    text-align: center;
+}
+#myCarousel img {
+    height: 600px;
+    width :100%;
+    margin-top: 35px;
+}
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: black;
+    font-size : 30px;
+}
